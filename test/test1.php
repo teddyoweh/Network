@@ -111,42 +111,6 @@
 
 
 
-<div class='sides'>
-    <div class="side-container">
-        <div class="trending-schools">
-            <span><i class='bx bx-hash'></i>Trending Schools</span>
-            <div class="schools">
-                <div class="e-sch">
-                <label>Harvard University</label>
-                    <img src="https://www.harvard.edu/wp-content/uploads/2020/10/cropped-logo-branding-compressed-190x190.png">
-                </div>
-                <div class="e-sch">
-                <label>University of Oxford</label>
-                    <img src="https://www.ox.ac.uk/sites/default/themes/custom/oxweb/favicon.ico">
-                </div>
-                
-            </div>
-        </div>
-        
-    </div>
-    <div class="side-container">
-        <div class="trending-schools">
-            <span><i class='bx bx-hash'></i>Trending Schools</span>
-            <div class="schools">
-                <div class="e-sch">
-                <label>Harvard University</label>
-                    <img src="https://www.harvard.edu/wp-content/uploads/2020/10/cropped-logo-branding-compressed-190x190.png">
-                </div>
-                <div class="e-sch">
-                <label>University of Oxford</label>
-                    <img src="https://www.ox.ac.uk/sites/default/themes/custom/oxweb/favicon.ico">
-                </div>
-                
-            </div>
-        </div>
-        
-    </div> 
-</div>
     </div>
 </body>
 
