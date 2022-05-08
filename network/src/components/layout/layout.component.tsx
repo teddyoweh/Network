@@ -2,7 +2,7 @@ import { FooterComponent } from "../footer";
 import { MainComponent } from "../main";
 import { SidePanelSection } from "../sidepanel";
  
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
+import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import { HomeComponent } from "../home";
 import { AboutComponent } from "../about";
 import { ResumeComponent } from "../resume";
