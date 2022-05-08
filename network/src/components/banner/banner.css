@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&family=Passion+One:wght@700&family=Radio+Canada:wght@500;700&display=swap');
+nav {
+    background: transparent;
+    padding: 10px;
+}
+
+nav a {
+    font-family: 'Radio Canada', sans-serif;
+    text-decoration: none;
+    float: right;
+    text-transform: capitalize;
+    font-weight: 800px;
+    color: rgb(72, 194, 216);
+    padding: 7px 20px;
+    background: grey;
+    border-radius: 10px;
+}
+
+.banner {
+    background: rgb(255 255 255);
+    height: 500px;
+    box-shadow: 1px 4px 8px 4px rgb(151 151 151 / 51%);
+}
+
+.banner .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: max-content;
+}
+
+.banner .container h1 {
+    font-family: 'Passion One', cursive;
+}
+
+.banner .container img {
+    height: 200px;
+    width: 200px;
+    object-fit: contain;
+}
