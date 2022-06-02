@@ -24,8 +24,12 @@ body {
     text-decoration: none;
     background-color: transparent!important;
     border-width: 0px 0px 1px !important;
-    border-color: white !important;
+    border-color: #47484a !important;
     margin-top: 4%;
+}
+
+.list-group .list-group-item:nth-last-child(1) {
+    border-style: none;
 }
 
 .img-fluid {
@@ -59,4 +63,8 @@ body {
 
 #feed {
     padding-bottom: 15%;
+}
+
+.figure {
+    width: 100%;
 }
