@@ -1,0 +1,8 @@
+#navbar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background: #0b0c0d;
+    color: white;
+    box-shadow: 1px 5px 13px #1e1f20;
+}
