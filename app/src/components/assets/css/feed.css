@@ -23,8 +23,9 @@ body {
     color: #212529;
     text-decoration: none;
     background-color: transparent!important;
-    border-width: 0px 0px 1px;
-    border-color: white;
+    border-width: 0px 0px 1px !important;
+    border-color: white !important;
+    margin-top: 4%;
 }
 
 .img-fluid {
