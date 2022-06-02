@@ -30,8 +30,8 @@
 }
 
 .footericons li {
-    color: white;
-    font-size: 24px;
+    color: #848e91;
+    font-size: 29px;
 }
 
 .footericons li a {}
@@ -55,4 +55,17 @@
     align-items: center;
     justify-content: space-around;
     text-shadow: 1px 5px 4px #3b3a3a;
+}
+
+.footer-active {
+    padding: 5px;
+    background: #364254 !important;
+    border-radius: 12px;
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white !important;
 }
