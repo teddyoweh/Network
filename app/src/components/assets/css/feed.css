@@ -63,8 +63,79 @@ body {
 
 #feed {
     padding-bottom: 15%;
+    padding-top: 15%;
 }
 
 .figure {
     width: 100%;
+}
+
+.post-insight {
+    margin-top: 4%;
+}
+
+.post-interact {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    font-family: system-ui;
+    font-weight: 800;
+    width: 100%;
+}
+
+.post-interact .likes {
+    font-family: system-ui;
+}
+
+.post-interact .comments {
+    font-family: system-ui;
+    color: #aac3d8;
+    padding-left: 4%;
+    width: 100%;
+}
+
+.post-main .likes {
+    font-size: 30px;
+    padding-left: 30px;
+    font-weight: 800;
+    color: #b3cbf0;
+    display: flex;
+    flex-direction: column;
+}
+
+.post-main {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.post-interact .box {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.post-interact .box11 {
+    width: 77%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.post-interact .howlong {
+    font-size: 13px;
+}
+
+.post-interact .actionbox {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.post-interact .actionbox a {
+    margin-right: 2%;
 }
