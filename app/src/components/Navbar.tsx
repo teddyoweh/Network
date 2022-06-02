@@ -1,9 +1,9 @@
 import React from "react";
-import "./assets/css/footer.css";
-export default function Footer(){
+import "./assets/css/navbar.css";
+export default function Navbar(){
     return (
         <>
-        <nav className="navbar bg-light" id='footer'>
+        <nav className="navbar container-fluid navbar-expand-lg navbar-light p-3 fixed-top" id='navbar'>
             <div className="container-fluid">
                 <a className="navbar-brand">Navbar</a>
                 <form className="d-flex" role="search">
