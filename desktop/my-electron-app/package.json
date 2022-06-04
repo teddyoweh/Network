@@ -1,0 +1,22 @@
+{
+    "name": "myapp",
+    "version": "1.0.0",
+    "description": "teddy app",
+    "main": "index.js",
+    "scripts": {
+        "test": "start",
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "."
+    },
+    "keywords": [
+        "teddy"
+    ],
+    "author": "teddy",
+    "license": "ISC",
+    "devDependencies": {
+        "electron": "^19.0.3"
+    }
+}
