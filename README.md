@@ -1,7 +1,7 @@
 # Network
 
 ##TODO:
-- New Post Icon ( Modal Drop ) 
+- New Post Icon ( Modal Dropdown ) 
 - Connect MongoDb
 - Routes 
  
